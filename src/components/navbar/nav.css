@@ -1,0 +1,29 @@
+.navbar{
+    box-shadow: 0 4px 4px -1px #777;
+}
+
+.nav-item{
+    font-size: 18px;
+    height: 47px;
+    font-weight: bold;
+}
+
+.nav-item a{
+    text-decoration: none;
+}
+
+.nav-link{
+    transition: all 0.5s ease-in-out;
+    color: white!important;
+    margin-left: 20px;
+}
+
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.5)!important;
+    border-radius: 30px;
+}
+
+.active_tab{
+    background-color: rgba(255, 255, 255, 0.5)!important;
+    border-radius: 30px;
+}

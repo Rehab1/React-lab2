@@ -1,0 +1,9 @@
+.newPost{
+    padding: 110px 0;
+    background-color: #ddd;
+}
+
+.submit{
+    width: 170px;
+    font-size: 20px;
+}
